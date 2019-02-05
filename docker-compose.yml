@@ -1,0 +1,11 @@
+version: '3.3'
+services:
+  data-science:
+    build: 
+      context: ./docker
+    image: shivangi/data-science-python
+    ports:
+      - "8888:8888"
+      - "5006:5006"
+    volumes:
+      - ./bokeh-app/:/home/jovyan/work/bokeh-app/
