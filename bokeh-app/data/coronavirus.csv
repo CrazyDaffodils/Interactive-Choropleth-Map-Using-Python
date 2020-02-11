@@ -1,0 +1,28 @@
+﻿Continent,Country / Territory / Area,Confirmed cases,Deaths 
+Asia,China,37242,812
+Asia,Singapore,40,0
+Asia,Thailand,32,0
+Asia,Japan,26,0
+Asia,Republic of Korea,25,0
+Asia,Taiwan,18,0
+Asia,Malaysia,16,0
+Asia,Vietnam,14,0
+Asia,United Arab Emirates,7,0
+Asia,India,3,0
+Asia,Philippines,3,1
+Asia,Nepal,1,0
+Asia,Sri Lanka,1,0
+Asia,Cambodia,1,0
+Other,Cases on an international conveyance Japan,64,0
+Europe,Germany,14,0
+Europe,France,11,0
+Europe,Italy,3,0
+Europe,United Kingdom,3,0
+Europe,Russia,2,0
+Europe,Finland,1,0
+Europe,Belgium,1,0
+Europe,Spain,1,0
+Europe,Sweden,1,0
+America,United States of America,12,0
+America,Canada,7,0
+Oceania,Australia,15,0
